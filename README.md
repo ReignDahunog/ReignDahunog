@@ -15,4 +15,4 @@
 - 💻 Interested in **Frontend & System Development**
 - 🎮 Aspiring **Game Developer 2D & 3D**
 - 📫 Email: **dahunogreignier@gmail.com**
-- 🌐 Portfolion: **https://reignierportfolio.onrender.com/**
+- 🌐 Portfolio: **https://reignierportfolio.onrender.com/**
