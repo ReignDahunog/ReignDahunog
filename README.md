@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Reignier Guillermo Dahunog</h1>
+<h1 align="center">Hello, I'm Reignier Guillermo Dahunog</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
