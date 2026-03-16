@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=ReignDahunog&label=Profile%20views&color=0e75b6&style=flat" alt="Reignier_Dahunog" />
 </p>
 
-- 🌱 Currently learning **Web Development & Backend Integration**
-- 💻 Interested in **Frontend & System Development**
+- 🌱 Currently learning **Cyber Security & Networking**
+- 💻 Interested in **Backend/Frontend & System Development**
 - 🎮 Aspiring **Game Developer 2D & 3D**
 - 📫 Email: **dahunogreignier@gmail.com**
 - 🌐 Portfolio: **https://reignierportfolio.onrender.com/**
