@@ -17,5 +17,3 @@
 - 🎮 Aspiring **Game Developer 2D & 3D**
 - 📫 Email: **dahunogreignier@gmail.com**
 - 🌐 Portfolio: **https://reignierportfolio.onrender.com/**
-
-.
