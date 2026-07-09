@@ -12,7 +12,7 @@
 </p>
 
 - 🌱 Currently learning **CyberSecurity & Networking**
-- 🧠 Focusing on **Cybersecurity**
+- 🧠 Focusing on **Game Development**
 - 💻 Interested in **Backend/Frontend & System Development**
 - 🎮 Aspiring **Game Developer 2D & 3D**
 - 📫 Email: **dahunogreignier@gmail.com**
